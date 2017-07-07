@@ -133,20 +133,20 @@ study in company."
 "Am I the right sort of company?" inquired Herbert, with a smile.
 
 "You hardly need to ask that, Herbert. Are we not always together? If I
-did not like your company, I should not seek it so persistently. I don't
+did not like your company, I should not seek it so persistently. I dont
 care to boast, but I have plenty of offers of companionship which I
-don't care to accept. There is Bob Stickney, for instance, who is always
+dont care to accept. There is Bob Stickney, for instance, who is always
 inviting me to his room; but you know what he is--a lazy fellow, who
 cares more to have a good time than to study. Then there is James
 Cameron, a conceited, empty-headed fellow, who is very disagreeable to
 me."
 
-"You don't mention your stepbrother, Mark Manning."
+"You dont mention your stepbrother, Mark Manning."
 
 "For two reasons--he doesn't care for my company, and of all the boys I
 dislike him the most."
 
-"I don't like him myself. But why do you dislike him so much?"
+"I dont like him myself. But why do you dislike him so much?"
 
 "Because he is a sneak--a crafty, deceitful fellow, always scheming for
 his own interest. He hates me, but he doesn't dare to show it. His
@@ -221,7 +221,7 @@ apprehension.
 
 "I shall go by that train."
 
-"I don't think I can get ready so soon," said Mark, deliberately.
+"I dont think I can get ready so soon," said Mark, deliberately.
 
 "Then you can come by yourself," replied Frank, impetuously. "I beg your
 pardon, Mark," he added. "I cannot expect you to feel as I do. It is not
@@ -239,7 +239,7 @@ for the journey. I will be at your room in a quarter of an hour."
 
 "You won't go by the next train, Mark?" said Herbert.
 
-"No. I don't care to rush about as Frank is doing."
+"No. I dont care to rush about as Frank is doing."
 
 "You would if it were your own mother who was so ill."
 
@@ -272,7 +272,7 @@ never could reconcile myself to the fact."
 
 "Do you remember your father--your own father, Frank?"
 
-"You need not have said 'your own father.' I don't recognize Mr.
+"You need not have said 'your own father.' I dont recognize Mr.
 Manning as a father, at all. Yes, I remember him. I was eight years old
 when he died. He was a fine-looking man, always kind--a man to be loved
 and respected. There was not a particle of similarity between him and
@@ -342,7 +342,7 @@ His mother smiled faintly as he approached the bed.
 "Yes, Frank," she answered, almost in a whisper. "I think I am going to
 leave you."
 
-"Oh, don't say that, mother!" burst forth in anguish from Frank's lips.
+"Oh, dont say that, mother!" burst forth in anguish from Frank's lips.
 "Try to live for my sake."
 
 "I should like to live, my dear boy," whispered his mother; "but if it
@@ -415,7 +415,7 @@ servant."
 
 "A servant has the right to be decently treated, Mr. Mark."
 
-"If you don't look out," said Mark, in a blustering tone, "I will report
+"If you dont look out," said Mark, in a blustering tone, "I will report
 you to my father, and have you kicked out of the house."
 
 Deborah was naturally incensed at this rude speech, but she was spared
@@ -437,11 +437,11 @@ I think it is shameful that I can't get anything to eat."
 "I regret, Mark," said Frank, with cool sarcasm, "that you should be
 inconvenienced about your meals. Perhaps you will excuse it, as my poor
 mother is so sick that she requires extra attention from the servants.
-Deborah, if possible, don't let Mark wait much longer. It seems to be
+Deborah, if possible, dont let Mark wait much longer. It seems to be
 very important that he should have his supper."
 
 "He shall have it," assured Deborah, rather enjoying the way in which
-Mark was put down; "that is, if he don't get me kicked out of the
+Mark was put down; "that is, if he dont get me kicked out of the
 house."
 
 "You had better not make any such threats in the future, Mark," said
@@ -469,7 +469,7 @@ should be apparent in her patient's condition.
 
 About half-past four in the morning there was a summons.
 
-"Mrs. Manning is worse," said the nurse. "I don't think she can last
+"Mrs. Manning is worse," said the nurse. "I dont think she can last
 long."
 
 One last glance of love--though she could no longer speak--assured Frank
@@ -514,7 +514,7 @@ thing."
 
 "There's nobody here but me," said Mark, sneering.
 
-"I don't catch your meaning," said his father, showing some annoyance,
+"I dont catch your meaning," said his father, showing some annoyance,
 for it is not pleasant to be seen through.
 
 "Why should you care so much?" continued Mark. "I suppose you will be
@@ -523,10 +523,10 @@ of it goes to Frank?"
 
 "I can't say," said Mr. Manning. "I never asked my wife."
 
-"Do you mean to say, father, that you don't know how the property is
+"Do you mean to say, father, that you dont know how the property is
 left?" asked Mark, with a sharp glance at his father.
 
-"I may have my conjectures," said Mr. Manning, softly. "I don't think my
+"I may have my conjectures," said Mr. Manning, softly. "I dont think my
 dear wife would leave me without some evidences of her affection.
 Probably the bulk of the estate goes to your brother, and something to
 me. Doubtless we shall continue to live here, as I shall naturally be
@@ -538,7 +538,7 @@ your brother's guardian."
 the same roof, and been to school together, and this ought to strengthen
 the tie between you."
 
-"I don't like Frank," said Mark. "He puts on altogether too many airs."
+"I dont like Frank," said Mark. "He puts on altogether too many airs."
 
 "I had not observed that," said his father.
 
@@ -553,10 +553,10 @@ the tie between you."
 to him, which I can hardly believe possible, I, as his guardian, will
 have the right to control him."
 
-"I hope you'll do it, father. At any rate, don't let him boss over me,
+"I hope you'll do it, father. At any rate, dont let him boss over me,
 for I won't stand it."
 
-"I don't think he will boss over you," answered his father, in a slow,
+"I dont think he will boss over you," answered his father, in a slow,
 measured voice, betraying, however, neither anger nor excitement. "Of
 course, I should not permit that."
 
@@ -631,7 +631,7 @@ Mr. Manning himself notified Frank of the gathering and its object.
 
 He found our hero lying on the bed in his chamber, sad and depressed.
 
-"I don't like to intrude upon your grief, my dear boy," said his
+"I dont like to intrude upon your grief, my dear boy," said his
 stepfather, softly, "but it is necessary. The last will of your dear
 mother and my beloved wife is about to be read, and your presence is
 necessary."
@@ -802,7 +802,7 @@ your rightful inheritance."
 
 "No more she would, Mr. Frank," said the coachman, chiming in.
 
-"I don't know what to think," said Frank. "It has surprised me very
+"I dont know what to think," said Frank. "It has surprised me very
 much."
 
 "Surprised you!" exclaimed Deborah. "You may well say that. You might
@@ -978,7 +978,7 @@ that will, she acted under a great mistake."
 
 "Do you mean to imply that I shall be false to my trust?"
 
-"Not at present, sir. I don't wish to judge of you too hastily."
+"Not at present, sir. I dont wish to judge of you too hastily."
 
 As the boy turned to go, he said. "I have nothing further to say, sir."
 
@@ -1023,26 +1023,26 @@ kind to you as she was herself. When she was alive, he was always as
 soft as--as silk."
 
 "His manner has changed now," said Frank, gravely. "Excuse me, Richard,
-for finding fault with you, but don't call him old Manning."
+for finding fault with you, but dont call him old Manning."
 
 "Why not, Mr. Frank?"
 
 "I have no liking for Mr. Manning--in fact, I dislike him--but he was
 the husband of my mother, and I prefer to speak of him respectfully."
 
-"I dare say you are right, Mr. Frank, but, all the same, he don't
+"I dare say you are right, Mr. Frank, but, all the same, he dont
 deserve it. Is Mr. Mark to ride Ajax then?"
 
-"If he asks for it, you are to saddle Ajax for him. I don't want you to
+"If he asks for it, you are to saddle Ajax for him. I dont want you to
 get into any trouble with Mr. Manning on my account."
 
-"I don't care for that, Mr. Frank. I can get another place, and I don't
+"I dont care for that, Mr. Frank. I can get another place, and I dont
 much care to serve Mr. Manning."
 
-"I would rather you would stay, if you can, Richard. I don't want to see
+"I would rather you would stay, if you can, Richard. I dont want to see
 a new face in the stable."
 
-"I don't think he means to keep me long, Mr. Frank. Deborah and I will
+"I dont think he means to keep me long, Mr. Frank. Deborah and I will
 have to go, I expect, and he'll get some servants of his own here."
 
 "Has he hinted anything of this, Richard?" asked Frank, quickly.
@@ -1095,7 +1095,7 @@ with whom he was a favorite, he received many words of sympathy--from
 none more earnest or sincere than from Herbert Grant.
 
 "I know how you feel, Frank," he said, pressing the hand of his friend.
-"If I could comfort you I would, but I don't know how to do it."
+"If I could comfort you I would, but I dont know how to do it."
 
 "I find comfort in your sympathy," said Frank. "I look upon you as my
 warmest friend here."
@@ -1191,7 +1191,7 @@ surprise.
 
 "That is very strange and unjust."
 
-"I don't look upon it in that light," said Mark, nettled. "My father
+"I dont look upon it in that light," said Mark, nettled. "My father
 knows what is best for him. He will provide for him just as his mother
 did before."
 
@@ -1254,7 +1254,7 @@ because you were poor, and follow him about."
 
 "I am not afraid of that, Herbert."
 
-"I don't think Mark will have that idea any more. I gave him a piece of
+"I dont think Mark will have that idea any more. I gave him a piece of
 my mind, and left him very angry. But what does it all mean, Frank?"
 
 "I know no more than you do, Herbert. I cannot understand it."
@@ -1276,7 +1276,7 @@ one of the most plausible of men."
 "It looks very bad for you, Frank," admitted Herbert, in a tone of
 sympathy.
 
-"I don't so much care for the loss of the property, Herbert," said
+"I dont so much care for the loss of the property, Herbert," said
 Frank, "but I am afraid I shall have sorts of annoyances to endure from
 Mark and his father. But I won't anticipate trouble. I will do my duty,
 and trust that things will turn out better than I fear."
@@ -1354,7 +1354,7 @@ infraction of his rights.
 "It is too bad, Frank!" said his sympathizing friend.
 
 "Yes, it is," said Frank, gravely; "but I fear it is only the beginning
-of annoyances. I don't believe I can ever live in any place with Mr.
+of annoyances. I dont believe I can ever live in any place with Mr.
 Manning or Mark."
 
 "Will it be necessary?"
@@ -1456,7 +1456,7 @@ The coachman looked at him in surprise.
 "So I was at first, but he has been sold to a man who will treat him
 well, and I shall be glad to think of that when I'm away from home."
 
-"You don't mean to run away, Mr. Frank?"
+"You dont mean to run away, Mr. Frank?"
 
 "No; but I mean to get my stepfather's permission to go, if I can."
 
@@ -1470,14 +1470,14 @@ dependence upon Mr. Manning."
 go away and work for a living, while that man and his boy occupy your
 place. I can't bear to think of it."
 
-"I have done a good deal of thinking within a few days, and I don't
+"I have done a good deal of thinking within a few days, and I dont
 shrink from the prospect. I think I should rather enjoy being actively
 employed."
 
 "But you were to go to college, Mr. Frank."
 
 "I know it, Richard, but I am not sure whether it would be for the best.
-My tastes are for an active business life, and I don't care for a
+My tastes are for an active business life, and I dont care for a
 profession."
 
 "Do you think your stepfather will give you a start?"
@@ -1486,16 +1486,16 @@ profession."
 
 "Yes."
 
-"I don't know. If he won't, I have still fifty dollars in the savings
+"I dont know. If he won't, I have still fifty dollars in the savings
 bank, which I have saved from my pocket money. I will take that."
 
 "Mr. Frank, will you promise not to be offended at what I'm going to
 say?"
 
-"I don't think you would say anything that ought to offend me, Richard."
+"I dont think you would say anything that ought to offend me, Richard."
 
 "Then I want you to take the money that comes to me by the will--Mr.
-Manning is to pay it to me on Monday. I don't need it, and you may."
+Manning is to pay it to me on Monday. I dont need it, and you may."
 
 Frank shook his head.
 
@@ -1575,7 +1575,7 @@ feelingly.
 "So was I, sir; because it makes me dependent on a man whom I dislike."
 
 "Don't be too prejudiced, Frank. I never took any fancy to your
-stepfather myself; but then we don't need to like everybody we associate
+stepfather myself; but then we dont need to like everybody we associate
 with."
 
 "I hear you have bought my horse, Col. Vincent," said Frank, desiring to
@@ -1598,7 +1598,7 @@ it."
 
 "It's too bad! I'll tell you what I will do, Frank. I haven't paid for
 the horse yet. I will return it to Mr. Manning, and tell him that I
-bought it under a misapprehension of the ownership. I don't think he
+bought it under a misapprehension of the ownership. I dont think he
 will make any fuss."
 
 "I would rather have you keep it, sir."
@@ -1640,7 +1640,7 @@ New York."
 "You will need some money to start with. Do you think Mr. Manning will
 give you any?"
 
-"I don't know, sir! That won't prevent my going. I have fifty dollars in
+"I dont know, sir! That won't prevent my going. I have fifty dollars in
 a savings bank, saved up from my allowance, and that will be all I shall
 need."
 
@@ -1650,7 +1650,7 @@ you are in a strait."
 
 "I will, sir, and thank you heartily."
 
-"That was a strange will, Frank. I don't want to put any ideas into your
+"That was a strange will, Frank. I dont want to put any ideas into your
 head to disturb you, but had your mother ever led you to suspect that
 she intended to leave you dependent on your stepfather?"
 
@@ -1737,7 +1737,7 @@ Frank.
 "It would serve you right if Col. Vincent should have you arrested and
 tried."
 
-"I don't think he will gratify your kind wishes, Mark."
+"I dont think he will gratify your kind wishes, Mark."
 
 "Just wait and see what my father has to say to you."
 
@@ -1848,7 +1848,7 @@ hope you won't be offended at my plain speaking," he added, artfully.
 "I suppose," said James, "you will see a little life now that you are
 your own master and have plenty of money."
 
-"I don't know exactly what you mean, James. There isn't much life to be
+"I dont know exactly what you mean, James. There isn't much life to be
 seen in Bridgeville."
 
 "That is true; but still there is some. Suppose now"--by this time they
@@ -1909,7 +1909,7 @@ have seventeen to make, while I am making thirty-four."
 
 "We'll have another."
 
-"Won't that be too much? I don't want to get drunk."
+"Won't that be too much? I dont want to get drunk."
 
 "Two drinks won't do you any harm. Very well. Now let us string for the
 lead."
@@ -1931,7 +1931,7 @@ within two points of beating. Don't you like the game?"
 
 "I thought you would. Shall we have another game?"
 
-"I don't mind," answered Mark.
+"I dont mind," answered Mark.
 
 He knew that he ought to be in his room writing a composition to be
 delivered the next day, but such obligations sat easily upon Mark, and
@@ -1957,7 +1957,7 @@ Mark had no special scruples against betting, which is only one form of
 gambling, but he decidedly objected to losing money, so he answered,
 cautiously:
 
-"I don't know about that. You beat me both of the other games."
+"I dont know about that. You beat me both of the other games."
 
 "That's true; but you play better now than you did at first."
 
@@ -2022,7 +2022,7 @@ said, quietly:
 
 "What is it to you, anyway?" returned Mark, rudely.
 
-"Not much, perhaps," replied Frank, calmly, "but I don't like to see my
+"Not much, perhaps," replied Frank, calmly, "but I dont like to see my
 acquaintances coming out of a liquor saloon."
 
 "It won't hurt you," said Mark, irritably.
@@ -2203,7 +2203,7 @@ airs."
 "Good for you! I admire your pluck!" said James, slapping Mark on the
 back. "You are true grit, you are! Just teach the fellow a lesson."
 
-"See if I don't!"
+"See if I dont!"
 
 Mark nodded his head resolutely, and went into the presence of Dr.
 Brush, thirsting for vengeance against his stepbrother, who, he felt
@@ -2337,11 +2337,11 @@ boys were mortified and left the study crestfallen.
 Mark was the first to recover his spirits.
 
 "It is not so bad, James," he said. "To-morrow will be Saturday, and I
-should go home, anyway. I don't mind staying at home next week."
+should go home, anyway. I dont mind staying at home next week."
 
 "What will your father say?"
 
-"Oh, I'll make it all right with him! I don't mind much what he says. I
+"Oh, I'll make it all right with him! I dont mind much what he says. I
 guess he got into scrapes himself when he was a boy."
 
 "My father isn't so easily managed. Just as likely as not, he'll cut off
@@ -2374,17 +2374,17 @@ were the only one who knew. It's a mean trick, isn't it, Carson?"
 may be the best thing for you that it has been found out, for it was
 doing you no good to frequent such places."
 
-"I don't want to hear any of your preaching, Frank Courtney. I guess I
+"I dont want to hear any of your preaching, Frank Courtney. I guess I
 can manage my own affairs without any advice from you."
 
-"I don't care to intrude any advice," said Frank. "I have not much
+"I dont care to intrude any advice," said Frank. "I have not much
 reason to feel interested in you."
 
 "You'd better look out how you treat me, though," said Mark, insolently.
 "I know very well you dislike me, but it won't be safe for you to show
 it while you are a dependent on my father."
 
-"I don't propose to be a dependent on him long," said Frank, quietly.
+"I dont propose to be a dependent on him long," said Frank, quietly.
 "The truth of it is, you and your father are dependent upon property
 which of right belongs to me. The time may come when I shall be able to
 show this."
@@ -2426,7 +2426,7 @@ long."
 
 "How is he going to avoid it?'
 
-"I don't know."
+"I dont know."
 
 "I have had some intimation from Col. Vincent, who appears to be in his
 confidence. He wants to leave us."
@@ -2443,7 +2443,7 @@ thinking of traveling."
 
 "Not without me?" said Mark, hastily.
 
-"No; you shall go with me, but I don't care to take Frank."
+"No; you shall go with me, but I dont care to take Frank."
 
 "You might leave him at school."
 
@@ -2475,7 +2475,7 @@ return there at the end of the vacation?"
 "Humph! I had not thought much on the subject."
 
 "It has all along been intended that I should go to college when
-prepared, but I don't think I care much about it."
+prepared, but I dont think I care much about it."
 
 "In that case," said his stepfather, with alacrity, "you would only be
 throwing away time and money by going."
@@ -2486,7 +2486,7 @@ two reasons.
 A college course would be expensive. Again, should he turn his attention
 to the law, he might hereafter give him trouble about the estate.
 
-"I don't think I should throw away my time, for, if I went to college, I
+"I dont think I should throw away my time, for, if I went to college, I
 should go there to work faithfully; but I have a fancy for a more
 stirring life."
 
@@ -2520,7 +2520,7 @@ prefer to look around for myself."
 
 "Your permission to go out into the world, and try to make a living."
 
-"And if you don't," said Mr. Manning, "I suppose you expect me to
+"And if you dont," said Mr. Manning, "I suppose you expect me to
 defray your expenses?"
 
 "If I did have such an expectation, I think I should be justified, in
@@ -2594,7 +2594,7 @@ to make it in my own way."
 
 "It is a sad change for you, Frank."
 
-"No, I can't say that. I don't know how it is, Herbert, but I am rather
+"No, I can't say that. I dont know how it is, Herbert, but I am rather
 glad to have all this thrown upon me. I enjoy feeling that I have got to
 work."
 
@@ -2606,14 +2606,14 @@ smile.
 Herbert shook his head.
 
 "Father has a plan for me," he said. "I am to learn his trade, and shall
-commence next week. I don't particularly like it, but it is well to have
+commence next week. I dont particularly like it, but it is well to have
 a trade to fall back upon."
 
 "Mr. Manning wanted me to learn a trade."
 
 "There is no occasion for your doing so."
 
-"I don't know about that. If I had a particular fancy for any, I
+"I dont know about that. If I had a particular fancy for any, I
 wouldn't mind choosing it, but I am better suited for something else."
 
 "What is your plan? What will you do first?"
@@ -2625,7 +2625,7 @@ all, go to him, and ask his advice. He is a business man, and he may be
 able to put me in the way of obtaining a position."
 
 "I think you will succeed, Frank, but it will be harder than you think
-for. You don't know what poverty is yet. I have never known anything
+for. You dont know what poverty is yet. I have never known anything
 else."
 
 "If I do succeed, Herbert, I may be able to find something for you."
@@ -2684,7 +2684,7 @@ earn a living when you might have seen something of the Old World?"
 
 "Then you prefer the father to the son?" said the colonel.
 
-"The father has much more agreeable manners. I don't think Mark could be
+"The father has much more agreeable manners. I dont think Mark could be
 agreeable if he tried."
 
 Col. Vincent smiled.
@@ -3029,7 +3029,7 @@ and he also wanted to see something of Newark.
 
 "I am glad of it. He has received me very kindly."
 
-"Got up an extra supper for you. We don't often get steak for supper."
+"Got up an extra supper for you. We dont often get steak for supper."
 
 This was rather an embarrassing revelation, and surprised Frank
 somewhat. The supper had not seemed to him at all extra. It would do,
@@ -3042,14 +3042,14 @@ but was far from luxurious.
 "You see we shall live better while you are with us, and the rest of us
 will be gainers."
 
-"I don't want to put your father to any unusual expense."
+"I dont want to put your father to any unusual expense."
 
 "Oh, he can afford it! But he's stingy, father is. He doesn't spend any
 more than he can help."
 
 "It is best to be economical, I suppose."
 
-"When you don't carry it too far. I say, Frank," continued Pliny,
+"When you dont carry it too far. I say, Frank," continued Pliny,
 lowering his voice, "you can't lend me five dollars, can you?"
 
 Frank regarded Pliny with astonishment. The proposal was very abrupt,
@@ -3103,7 +3103,7 @@ Pliny stopped short in blank amazement and whistled.
 
 "Won't your stepfather give you a part of the property?"
 
-"I haven't asked him, but I don't think he will."
+"I haven't asked him, but I dont think he will."
 
 "And why did you come to Newark?"
 
@@ -3111,7 +3111,7 @@ Pliny stopped short in blank amazement and whistled.
 
 "If this isn't the richest joke!" said Pliny, laughing uproariously.
 
-"Where is the joke? I don't see it," returned Frank, inclined to be
+"Where is the joke? I dont see it," returned Frank, inclined to be
 angry.
 
 "The way you have taken in the old man. He thinks you are rich, and has
@@ -3127,7 +3127,7 @@ be."
 "I think I will leave you," said Frank, shortly. "I will take a walk by
 myself.
 
-"Well, don't lose your way. Oh, I wish the store was shut! I want to
+"Well, dont lose your way. Oh, I wish the store was shut! I want to
 tell the old man."
 
 And Pliny laughed again, while our hero walked off in disgust.
@@ -3182,7 +3182,7 @@ but I'm sure she would not will away everything from me."
 "Do you suspect your stepfather of anything irregular?" asked Mr.
 Tarbox, briskly.
 
-"I would rather not answer your question, sir. I don't care to make any
+"I would rather not answer your question, sir. I dont care to make any
 charges which I cannot prove."
 
 "And so Mr. Manning has sent you out into the world to earn your own
@@ -3228,7 +3228,7 @@ had no wish to deprive the errand boy of the two dollars a week, which
 he probably richly earned.
 
 "Situations in Newark are not easily obtained," proceeded Mr. Tarbox. "I
-am willing that you should stay with us a day or two, but I don't think
+am willing that you should stay with us a day or two, but I dont think
 you will find it worth your while to stay here."
 
 Mr. Tarbox feared that his young relative might expect to find a home
@@ -3242,12 +3242,12 @@ briefly, announced his intention to go to New York the next morning.
 York opens a much wider field to a boy of enterprise than Newark, and
 probably you will pick up something to do."
 
-"It won't be my fault, if I don't," said Frank.
+"It won't be my fault, if I dont," said Frank.
 
 "You have my best wishes," said Mr. Tarbox. "The demands of my family
 forbid me offering you any pecuniary assistance, but--"
 
-"I don't stand in need of it, sir. I have money enough to keep me till I
+"I dont stand in need of it, sir. I have money enough to keep me till I
 get started in something."
 
 "Really, I am very glad to hear it!"
@@ -3342,7 +3342,7 @@ like it. He thought it best, however, to inquire the price.
 
 "Five dollars a week with board," answered the girl.
 
-"I don't think it will suit me," said our hero.
+"I dont think it will suit me," said our hero.
 
 "There's a larger room for seven dollars," said the servant.
 
@@ -3403,14 +3403,14 @@ Boys of his age usually like excitement and bustle, and Frank was quick
 to notice the shifting scenes of the great panorama.
 
 "Here are thousands of people," he reflected, "all of whom make a living
-in some way. I don't see why I can't succeed as well as they."
+in some way. I dont see why I can't succeed as well as they."
 
 Some of the objects he saw amused him.
 
 In front of him walked an elderly man with a large placard strapped to
 his back, on which was the advertisement of a "Great Clothing Emporium."
 
-"I don't think I should fancy that kind of employment," thought our
+"I dont think I should fancy that kind of employment," thought our
 hero.
 
 As he was looking in at a shop window, a boy about his own age hailed
@@ -3456,7 +3456,7 @@ Near the entrance he met a tall man, with black whiskers.
 
 "Two dollars a week."
 
-"No; I don't think I should like to work for that," said Frank. "Are
+"No; I dont think I should like to work for that," said Frank. "Are
 those cash boys?" he asked, pointing out some boys of apparently ten to
 twelve years, old, who were flitting about from desk to counter.
 
@@ -3567,7 +3567,7 @@ place?"
 find boys are paid so little that I can't make enough to live on. If I
 were a man it would be different."
 
-"I don't believe you can make more than a boy's wages at selling tea,"
+"I dont believe you can make more than a boy's wages at selling tea,"
 said Frank's new acquaintance, "but you might try it."
 
 "Would you mind giving me a note to the company?" asked Frank.
@@ -3736,13 +3736,13 @@ When his employer saw him coming, he asked, eagerly:
 "No," answered Frank. "They asked me if I wanted a check or currency."
 
 "Either currency or gold," answered the man, hastily. "Go back at once,
-and don't keep me waiting."
+and dont keep me waiting."
 
 "They want to see you, sir."
 
 "What for?" inquired the man, looking disturbed.
 
-"I don't know."
+"I dont know."
 
 "There is no need of my going in," said the man, angrily. "I paid you to
 sell the bonds. Now go back."
@@ -3806,7 +3806,7 @@ leaving the office.
 will you be on hand at the time?"
 
 "Better employ a detective, sir, as my uniform would keep the thief at a
-distance. I don't think he'll appear, at any rate."
+distance. I dont think he'll appear, at any rate."
 
 "I do," said the broker. "He won't give up the money while he thinks
 there is a chance of securing it."
@@ -3843,7 +3843,7 @@ To make sure that he was not deceived he inquired:
 "You know very well," said the man, impatiently. "You are the boy whom I
 employed to sell some bonds this morning."
 
-"You don't look like the same man," said Frank.
+"You dont look like the same man," said Frank.
 
 "Because of my glasses. I have to wear them at times on account of the
 weakness of my eyes."
@@ -3916,9 +3916,9 @@ Turning into Sixth Avenue they passed a saloon.
 
 "It will brace you up, and make you feel jolly. Better come in!"
 
-"I don't need bracing up," answered Frank, quietly.
+"I dont need bracing up," answered Frank, quietly.
 
-"Well, perhaps you are right," said Mr. Peter Preston. "I don't indulge
+"Well, perhaps you are right," said Mr. Peter Preston. "I dont indulge
 very often, but sometimes I feel like it."
 
 Some boys might have yielded to the temptation, but Frank had determined
@@ -3987,7 +3987,7 @@ cold to think of having the houses entered at night by burglars."
 "Preston," said Mr. Smith, jokingly, "I hope you have your bonds locked
 securely up."
 
-"I don't believe the sharpest burglar can find them," said Preston. "I
+"I dont believe the sharpest burglar can find them," said Preston. "I
 only wish I could get hold of them myself."
 
 "The boy who helped to capture the burglar ought to be well rewarded,"
@@ -4001,7 +4001,7 @@ There was a great sensation upon this announcement. All eyes were turned
 upon our hero--most, it must be admitted, with an expression of
 incredulity.
 
-"Come, now, you are joking!" said Preston. "You don't really mean it?"
+"Come, now, you are joking!" said Preston. "You dont really mean it?"
 
 "I do mean it," assured Frank.
 
@@ -4018,7 +4018,7 @@ the company.
 "You'll come in for a handsome reward, when Mr. Percival gets home,"
 suggested Mr. Smith.
 
-"I don't expect anything," said Frank. "I shall be satisfied if I get
+"I dont expect anything," said Frank. "I shall be satisfied if I get
 the dollar which was promised me. I haven't received that yet."
 
 "I wish I were in your shoes--that's all I've got to say," said Preston,
@@ -4084,7 +4084,7 @@ ours at the grocery store on the avenue, and the last wasn't very good."
 
 "You'd better try a pound of ours," said Frank.
 
-"I don't know but I will," said the lady. "How much do you charge?"
+"I dont know but I will," said the lady. "How much do you charge?"
 
 "I have some at fifty cents, some at sixty and some at seventy."
 
@@ -4106,7 +4106,7 @@ regarding Frank with curiosity.
 
 "No, ma'am; I've only just commenced."
 
-"You don't say so! Do you make much money at it?"
+"You dont say so! Do you make much money at it?"
 
 "I haven't made much yet. I should be glad to supply you with some more
 tea when this is gone."
@@ -4239,7 +4239,7 @@ In one way this compliment was satisfactory. In another way it was not
 encouraging, for it limited his prospects. Frank began to think that he
 would never be able to make his entire expenses as a tea agent.
 
-I don't propose to speak in detail of Frank's daily experiences, but
+I dont propose to speak in detail of Frank's daily experiences, but
 only to make mention of any incidents that play an important part in
 his history.
 
@@ -4281,7 +4281,7 @@ appearance of interest. "Are you in any business?"
 "I am agent for a wholesale tea house in New York," Frank answered,
 briefly.
 
-"You don't say so!" exclaimed Mark, rather impressed. "What is the name
+"You dont say so!" exclaimed Mark, rather impressed. "What is the name
 of the firm?"
 
 "The Great Pekin Tea Company."
@@ -4294,7 +4294,7 @@ of the firm?"
 enterprise are creditable--extremely creditable. I always predicted that
 you would succeed--didn't I, Mark?'
 
-"I don't remember hearing you say so," said Mark.
+"I dont remember hearing you say so," said Mark.
 
 Mr. Manning shrugged his shoulders.
 
@@ -4346,7 +4346,7 @@ trip; but with Mark in the party there would be little pleasure for him.
 
 "We are staying at the St. Nicholas Hotel," said Mr. Manning. "I would
 invite you to come and dine with us, but I have an engagement first, and
-don't know when we shall dine."
+dont know when we shall dine."
 
 "Thank you, all the same," said Frank.
 
@@ -4436,7 +4436,7 @@ downtown and sat quietly down in a corner.
 
 "Harlem doesn't seem to be a very promising field for an agent," he said
 to himself. "Perhaps it isn't fair to judge it by the first day. Still,
-I don't think I shall have courage to come here to-morrow. I would
+I dont think I shall have courage to come here to-morrow. I would
 rather go to Jersey City or Brooklyn."
 
 Frank got off the cars at the Bible House and walked to his boarding
@@ -4494,7 +4494,7 @@ He pointed to a desk some distance back, and Frank went up to it.
 "You advertise for a boy," he said to a tall, stout man, who chanced to
 be the proprietor. "Is the place filled."
 
-"No," was the answer; "but I don't think it would suit you."
+"No," was the answer; "but I dont think it would suit you."
 
 "Do you think I would not be competent, sir?"
 
@@ -4562,7 +4562,7 @@ FRANK HEARS SOMETHING TO HIS ADVANTAGE
 
 
 "My name," said the stranger, "is Peters--Jonathan Peters, of
-Craneville, Onondaga County. I am a farmer, and don't know much about
+Craneville, Onondaga County. I am a farmer, and dont know much about
 New York. I've got a few hundred dollars that I want to put into
 government bonds."
 
@@ -4572,7 +4572,7 @@ government bonds."
 Peters. "The squire--Squire Jackson, of our village--perhaps you may
 have heard of him?"
 
-"I don't think I have, Mr. Peters."
+"I dont think I have, Mr. Peters."
 
 "Well, the squire told me I'd better take good keer of my money, as
 there were plenty of rascals here who would try to cheat me out of it."
@@ -4580,7 +4580,7 @@ there were plenty of rascals here who would try to cheat me out of it."
 "That is true, Mr. Peters. Only yesterday I was robbed of thirty-five
 dollars by a man who boarded in the same house."
 
-"You don't say so?"
+"You dont say so?"
 
 "He opened my trunk and took out my pocketbook while I was absent on
 business."
@@ -4595,7 +4595,7 @@ it will be remembered, Frank had once before had dealings.
 of honorable treatment. I will introduce you if you like."
 
 "I should be obleeged if you would," said the farmer. "Out in Craneville
-I am to home, but I ain't used to York business men, and don't know how
+I am to home, but I ain't used to York business men, and dont know how
 to talk to them."
 
 It pleased Frank to find that, in spite of his inexperience, he was able
@@ -4932,7 +4932,7 @@ Mr. Percival now proceeded to interrogate Frank.
 
 "Perhaps I had better tell you how it happened, sir."
 
-"If you don't object, I should be glad to hear."
+"If you dont object, I should be glad to hear."
 
 Frank gave a brief statement of his position, and the circumstances that
 led him to leave his home and go out into the world.
@@ -4954,7 +4954,7 @@ Europe, then?"
 
 "He can't feel much interest in you."
 
-"I don't think he does," answered Frank. "Still, I can't say that he has
+"I dont think he does," answered Frank. "Still, I can't say that he has
 treated me unkindly."
 
 "Do you suspect that your stepfather has wronged you in the matter of
@@ -4974,7 +4974,7 @@ to Europe with his son Mark."
 
 "Do you think that he was sincere in the offer?"
 
-"I don't think he expected me to accept it, and I am sure that it would
+"I dont think he expected me to accept it, and I am sure that it would
 have been very disagreeable to Mark to have me in the party."
 
 "Have you any objections to telling me how you have succeeded in your
@@ -5011,7 +5011,7 @@ fellow boarders opened my trunk and borrowed it without leave."
 
 "Of course you won't recover it?"
 
-"I don't think there is much chance of it, sir."
+"I dont think there is much chance of it, sir."
 
 "Then probably your money is nearly exhausted?"
 
@@ -5087,7 +5087,7 @@ a cordial smile.
 
 "Freddie," she said, "it is time for you to go to bed."
 
-"I don't want to leave Frank," said Freddie.
+"I dont want to leave Frank," said Freddie.
 
 "Frank will come and see you again."
 
@@ -5331,7 +5331,7 @@ and he cut down our essays when they were too diffuse."
 young secretary. You will be able to assist me even more than I
 anticipated. I shall, of course, read over your letters before they are
 sent, to make sure that you have fully comprehended and carried out my
-instructions, but I don't expect they will need much correction."
+instructions, but I dont expect they will need much correction."
 
 Frank was much gratified by these words. This was the only point on
 which he had felt at all doubtful as to his ability to please his
@@ -5360,7 +5360,7 @@ approval to his mother and grandfather.
 hold upon Freddie. I am not sure but he likes your company better than
 mine."
 
-"I don't think Freddie will prefer anyone to his mother," said Frank;
+"I dont think Freddie will prefer anyone to his mother," said Frank;
 "but I am glad he likes to be with me."
 
 "You have certainly proved very successful as a private tutor, Frank,"
@@ -5566,10 +5566,10 @@ He had not thought of a journey so extended.
 
 "Yes; it would be necessary for you to go out to Minnesota. Ordinarily,
 a man can best look after his own affairs; but in the present instance,
-I suspect that you could do better than myself. I don't mean this as a
+I suspect that you could do better than myself. I dont mean this as a
 compliment, but a boy like you would not be suspected, and so could
 discover more than I, from whom facts would be studiously concealed.
-But, of course, you don't understand my meaning. I will explain, and
+But, of course, you dont understand my meaning. I will explain, and
 then you can comprehend me."
 
 Frank was all attention.
@@ -5901,10 +5901,10 @@ his arrival in Jackson.
 deal of liquor is sold there, and Mr. Fairfield, our agent, is one of
 the most constant patrons of the bar."
 
-"I don't think I should like to stop there," said Frank. "Isn't there
+"I dont think I should like to stop there," said Frank. "Isn't there
 any private family where I can get board for a week or two?"
 
-"If you don't object to plain fare," said the farmer, "I might agree to
+"If you dont object to plain fare," said the farmer, "I might agree to
 board you myself."
 
 This was precisely what Frank wanted, and he replied that nothing would
@@ -5934,7 +5934,7 @@ hard for me. Now I have a hard struggle."
 
 "What made you think so?"
 
-"You don't talk like a farmer. You have the appearance of a man who has
+"You dont talk like a farmer. You have the appearance of a man who has
 lived in cities."
 
 "Seems to me you are a close observer, for a boy of your years," said
@@ -5979,7 +5979,7 @@ favorable impressions were confirmed on further acquaintance.
 "It seems to me," said the driver, changing the subject, "you might find
 something better to do than to peddle stationery."
 
-"I don't mean to follow the business long," answered Frank.
+"I dont mean to follow the business long," answered Frank.
 
 "It can't pay much."
 
@@ -6099,7 +6099,7 @@ income--a hundred dollars a year--paid me by my stepfather."
 
 "It doesn't go very far. What are you intending to be, Dick?"
 
-"I suppose I shall have to be a farmer, though I don't like it."
+"I suppose I shall have to be a farmer, though I dont like it."
 
 "What would you like to be?"
 
@@ -6135,7 +6135,7 @@ thinking about that."
 studied Latin and Greek, and in less than a year I could be ready to
 enter."
 
-"Why don't you?" asked Dick.
+"Why dont you?" asked Dick.
 
 "You forget that I am a poor peddler."
 
@@ -6198,7 +6198,7 @@ At this moment Mr. Fairfield himself came out of his front gate.
 back? What you tell me makes me rather curious about Mr. Fairfield. At
 your house I may get a chance to see something of him."
 
-"Let us go back, then," said Dick; "but I don't think, Frank, that you
+"Let us go back, then," said Dick; "but I dont think, Frank, that you
 will care much about keeping up the acquaintance."
 
 "Perhaps not; but I shall gratify my curiosity."
@@ -6292,7 +6292,7 @@ could he refuse to furnish Mr. Percival's address?
 A middle course occurred to him.
 
 "You may write your appeal, if you like, Hamlin," he said, "and hand it
-to me. I will forward it; though I don't believe it will do any good.
+to me. I will forward it; though I dont believe it will do any good.
 The fact is that Mr. Percival has made up his mind to have more income
 from his property in Jackson."
 
@@ -6331,7 +6331,7 @@ Mr. Hamlin looked troubled.
 
 "I am afraid you will get discouraged."
 
-"If you don't do better, you won't begin to pay expenses."
+"If you dont do better, you won't begin to pay expenses."
 
 "That is true."
 
@@ -6344,7 +6344,7 @@ remain here permanently, and make your home with us. I would charge you
 only the bare cost of board."
 
 "Thank you very much, Mr. Hamlin. I should enjoy being with you, but I
-don't believe I shall find any opening here. Besides, I like a more
+dont believe I shall find any opening here. Besides, I like a more
 stirring life."
 
 "No doubt--no doubt! Boys like a lively place. Well, I am glad you feel
@@ -6441,7 +6441,7 @@ The agent was surprised when his two visitors made their appearance.
 Mr. Fairfield concluded that the farmer had come to make an appeal to
 have his rent continued at the old rates, and answered, impatiently:
 
-"I don't think it will be of much use. My mind is made up. Have you come
+"I dont think it will be of much use. My mind is made up. Have you come
 on business, also?" he asked, turning to Frank, with a sneer.
 
 "Yes, sir," answered our hero, quietly.
@@ -6469,7 +6469,7 @@ what I have to say," said the farmer in a meaning tone.
 "Look here, sir! Do you know to whom you are talking? How dare you use
 such a tone to Mr. Percival's representative?"
 
-"I suppose you don't always expect to be Mr. Percival's representative?"
+"I suppose you dont always expect to be Mr. Percival's representative?"
 
 "I suppose I shall die sometime, if that's what you mean; but I am not
 dead yet, as you will find. To pay you for your impertinence, I shall
@@ -6506,7 +6506,7 @@ self-possessed, and appeared to care nothing for the agent's threats.
 Jackson you must go. I know there is no other farm which you can hire,
 and while I am Mr. Percival's agent, you need expect no favors from me."
 
-"I don't expect any while you are Mr. Percival's agent," said Mr.
+"I dont expect any while you are Mr. Percival's agent," said Mr.
 Hamlin.
 
 There was something in the farmer's tone that arrested the agent's
@@ -6515,7 +6515,7 @@ and he could not help saying:
 
 "Then what do you expect? Do you think I am going to die?"
 
-"I don't expect that you will die or resign, Mr. Fairfield. You may be
+"I dont expect that you will die or resign, Mr. Fairfield. You may be
 removed."
 
 "Have you been writing to Mr. Percival?" exclaimed Fairfield, in mingled
@@ -6596,14 +6596,14 @@ the little boy.
 
 "We are all glad to see you back Frank," said his employer. "But you
 have justified my opinion of you by your success. Some of my friends
-ridiculed me for sending a boy on such an important mission, but I don't
+ridiculed me for sending a boy on such an important mission, but I dont
 believe any of them would have succeeded any better than you, if as
 well."
 
 "I am glad you are satisfied with me, sir," said Frank, very much
 gratified by the commendation of his employer.
 
-"I feel that you have done a great service, and indeed I don't know whom
+"I feel that you have done a great service, and indeed I dont know whom
 I could have sent in your place. However, I am glad to see you back
 again. I have missed you about my letters, and have postponed answering
 some till my young secretary returned."
@@ -6657,7 +6657,7 @@ Frank showed it to Mr. Percival, and readily obtained permission to take
 a few days vacation.
 
 "I hope you will get back the estate, Frank," said Mr. Percival, "though
-I don't know what I shall do without my secretary."
+I dont know what I shall do without my secretary."
 
 "That need not separate us, Mr. Percival," said our hero. "I have no
 home but this."
@@ -6748,7 +6748,7 @@ have grown!"
 
 "Thank you, Col. Vincent. Do you expect me to return the compliment?"
 
-"About having grown? No, Frank, I hope not. I am six feet one, and don't
+"About having grown? No, Frank, I hope not. I am six feet one, and dont
 care to grow any taller. Well, what do you think of the news?"
 
 "I have some for you, colonel;" and Frank mentioned what his new
@@ -6944,7 +6944,7 @@ If a bombshell had exploded in the room, Mr. Manning could not have
 looked paler or more thoroughly dismayed. Yet he tried to keep up a
 little longer.
 
-"I don't know any man of that name," he answered, faintly.
+"I dont know any man of that name," he answered, faintly.
 
 "Your looks show that you do. I may as well tell you, Mr. Manning, that
 resistance is useless. We can overwhelm you with proof if we take the
